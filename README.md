@@ -22,8 +22,8 @@ End the program
 
 ## PROGRAM:
 ```python
-Developed by : kavya,k
-Ref No : 22008613
+Developed by : S.Mohanraj
+Ref No : 212221230065
 import pandas as import pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
